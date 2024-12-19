@@ -8,7 +8,6 @@ import os
 import os.path as osp
 import cv2
 import torch
-from rich.console import Console
 from collections import OrderedDict
 
 from ..modules.spade_generator import SPADEDecoder
